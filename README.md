@@ -14,5 +14,29 @@ Subjects are given in pdf. The codes are provided in the form of annotated noteb
 
 ### Work 1 : Separation of sung voices using Deep Learning
 
+From the article https://openaccess.city.ac.uk/id/eprint/19289/1/
+
+
+Implementation of the U-NET :
+
+<img src="work1/images/U-NET.png" width="300" height="300">
+
+<img src="work1/images/comparison.png" width="600" height="300">
+
 
 ### Work 2 : NMF or Nonnegative Matrix Factorization
+The goal is to separate sound sources using activation dictionnary
+Using this update rule :
+
+<img src="work2/nmf.png" width="320" height="200">
+
+__Result__
+
+![Alt text](work2/images/activation.png)
+
+We can see that we managed to separate the 3 sources (piano key)
+
+
+<img src="work2/images/source1.png" width="350" height="200">
+<img src="work2/images/source2.png" width="350" height="200">
+<img src="work2/images/source3.png" width="350" height="200">
