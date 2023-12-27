@@ -24,6 +24,12 @@ Implementation of the U-NET :
 <img src="work1/images/comparison.png" width="600" height="300">
 
 
+
+__RESULTS__ : See (or listen) ```work1/results```
+<audio src="work1/r%C3%A9sultat/mix/1-radiohead.mp3" controls title="Title"></audio>
+
+
+
 ### Work 2 : NMF or Nonnegative Matrix Factorization
 The goal is to separate sound sources using activation dictionnary
 Using this update rule :
